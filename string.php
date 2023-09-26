@@ -45,7 +45,7 @@
     echo "String: \"$string3\"<br>";
 
     // Mengganti kata "old" dengan "awesome"
-    $string3 = str_replace("old", "awesome", $string3);
+    $string3 = str_replace("sexy!", "awesome", $string3);
     echo "Hasil: \"$string3\"";
     ?>
 </body>
